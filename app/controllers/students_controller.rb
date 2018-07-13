@@ -7,6 +7,7 @@ class StudentsController < ApplicationController
 
   def dd
     
+    
   end
 
 
