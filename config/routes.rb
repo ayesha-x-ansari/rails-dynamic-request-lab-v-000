@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
-  resources :students, only: :index
-
-  resources :students, only: :index
+  resources :students, only: [:index, :dd]
 
   # This show route can be refactored into the above resouces' method call above, like so:
   # resources :students, only: [:index, :show]
