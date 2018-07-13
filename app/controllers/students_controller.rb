@@ -5,8 +5,8 @@ class StudentsController < ApplicationController
     @students = Student.all
   end
 
-  def ddd
-    <h1> dddddddddd</h1>
+  def dd
+    
   end
 
 
