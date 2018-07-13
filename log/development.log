@@ -452,3 +452,6 @@ Completed 200 OK in 752ms (Views: 729.3ms | ActiveRecord: 1.3ms)
 Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 65.93.175.191 at 2018-07-13 14:47:11 +0000
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from load at /usr/local/rvm/gems/ruby-2.3.1/bin/shotgun:23)
   [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 65.93.175.191 at 2018-07-13 14:47:15 +0000
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from load at /usr/local/rvm/gems/ruby-2.3.1/bin/shotgun:23)
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
